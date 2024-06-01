@@ -10,8 +10,7 @@
 
 ![image](https://github.com/fatdumplingg/BananaRipenessDetectionLevel-KMeansAlgorithm/assets/115481549/daf2e419-3d42-4ee0-86ca-86e3cf836653)
 
-<img src="[IMG_LINK](https://github.com/fatdumplingg/BananaRipenessDetectionLevel-KMeansAlgorithm/assets/115481549/b827c5dc-1f37-435d-9b69-f964d026d91f)" width="100" height="100"/>
-
+![image](https://github.com/fatdumplingg/BananaRipenessDetectionLevel-KMeansAlgorithm/assets/115481549/b827c5dc-1f37-435d-9b69-f964d026d91f)
 
 ![image](https://github.com/fatdumplingg/BananaRipenessDetectionLevel-KMeansAlgorithm/assets/115481549/ff3736f7-ef82-4935-a539-c2b87138cf18)
 
