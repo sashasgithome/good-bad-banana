@@ -9,13 +9,13 @@
 ##### Here are output examples of the ripeness detection process of banana images. Feel free to read the IEEE report for more detailed information!
 
 
-<img src="https://github.com/fatdumplingg/BananaRipenessDetectionLevel-KMeansAlgorithm/assets/115481549/daf2e419-3d42-4ee0-86ca-86e3cf836653" width="700" height="500">
+<img src="https://github.com/fatdumplingg/BananaRipenessDetectionLevel-KMeansAlgorithm/assets/115481549/daf2e419-3d42-4ee0-86ca-86e3cf836653" width="600" height="400">
 
 
-<img src="https://github.com/fatdumplingg/BananaRipenessDetectionLevel-KMeansAlgorithm/assets/115481549/b827c5dc-1f37-435d-9b69-f964d026d91f" width="700" height="500">
+<img src="https://github.com/fatdumplingg/BananaRipenessDetectionLevel-KMeansAlgorithm/assets/115481549/b827c5dc-1f37-435d-9b69-f964d026d91f" width="600" height="400">
 
 
-<img src="https://github.com/fatdumplingg/BananaRipenessDetectionLevel-KMeansAlgorithm/assets/115481549/ff3736f7-ef82-4935-a539-c2b87138cf18" width="700" height="500">
+<img src="https://github.com/fatdumplingg/BananaRipenessDetectionLevel-KMeansAlgorithm/assets/115481549/ff3736f7-ef82-4935-a539-c2b87138cf18" width="600" height="400">
 
 
 
