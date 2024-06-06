@@ -1,4 +1,4 @@
-# BananaRipenessLevelDetection-KMeansAlgorithm
+# Banana Ripeness Detection with K-Means Algorithm
 
 #### ⭐ Project Name : Banana Ripeness Level with Brown Spots Detection 
 #### ⌛ Related Class : Digital Image Processing
